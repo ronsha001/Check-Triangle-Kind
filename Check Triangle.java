@@ -10,7 +10,7 @@ public class Calculator_Test {
 		int sumAngle = 0, triangles = 0;
 		int rightAngle = 0, equal2Angle = 0, equalTri = 0;
 		
-		for (int i = 0; i < 1; i++) {
+		for (int i = 0; i < 1; i++) { // Option to check many triangles as you want
 			System.out.print("Enter first angle: ");
 			firstA = s.nextInt();	// First angle input
 			System.out.print("Enter second angle: ");
